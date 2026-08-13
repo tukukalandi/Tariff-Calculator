@@ -1,0 +1,6 @@
+{
+  "name": "India Post Tariff Calculator",
+  "description": "Calculate tariffs for India Post services including Speed Post, India Post Parcel, and value-added services based on the official guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
